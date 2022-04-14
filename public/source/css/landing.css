@@ -1,0 +1,31 @@
+.banner{
+    margin-top: 50px;
+}
+.banner-titles span{
+    color: #705ecf;
+}
+.banner-images{
+    width: 100%;
+    height: 400px;
+    margin-top: 2%;
+}
+.banner .btn-start{
+    background-color: #705cef;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+@media (max-width: 992px){
+    .banner-images{
+        margin-top: 10%;
+        height: 200px;
+    }
+    .banner-titles{
+        margin-top: 30px;
+    }
+    .banner{
+        margin-top: 50px;
+        box-sizing: border-box;
+        box-shadow: 1px 1px 1px -1px #eee;
+    }
+}

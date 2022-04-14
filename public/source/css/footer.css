@@ -1,0 +1,23 @@
+#Footer {
+    background-color: #705ecf;
+} 
+  
+#Footer .about p {
+    color: #F3F4F8;
+    text-align: justify;
+}
+  
+#Footer h3 {
+    color: #F3F4F8;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+}
+  
+#Footer h2 {
+    color: #F3F4F8;
+    margin-bottom: 27px;
+}
+
