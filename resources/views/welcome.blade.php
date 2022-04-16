@@ -14,7 +14,7 @@
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, expedita.
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero, placeat!
                 </p>
-                <a href="/layanan" class="btn mt-2 mb-2 btn-start">GET STARTED</a>
+                <a href="/service" class="btn mt-2 mb-2 btn-start">GET STARTED</a>
             </div>
             <div class="col-10 col-lg-6 my-6">
                 <img src="source/img/banner.png" alt="banner-images" class="banner-images">
