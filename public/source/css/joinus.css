@@ -1,0 +1,39 @@
+.smarthome h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: 10px;
+    align-items: center;
+    text-align: center;
+    color: black;
+}
+
+.smarthome p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    color: #CCCCCC;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.box2 h5 {
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+}
+
+.box2 {
+    border-style: solid;
+    margin-top: 10px;
+    width: 650px;
+    height: 30px;
+    border-radius: 10px;
+}

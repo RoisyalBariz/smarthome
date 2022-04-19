@@ -29,3 +29,113 @@
         box-shadow: 1px 1px 1px -1px #eee;
     }
 }
+#sectionTwo{
+    padding-top: 77px;
+    padding-right: 158px;
+    padding-left: 158px;
+  }
+  
+  #sectionTwo .caption-sectwo{
+    text-align: center;
+  }
+  
+  #sectionTwo .h2-secTwo{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: 10px;
+    align-items: center;
+    text-align: center;
+    color: #705cef;
+  }
+  
+  #sectionTwo .h3-secTwo{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #BFBFBF;
+  }
+  
+  #sectionTwo .h4-secTwo{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.01em;
+    color: #000000;
+  }
+  
+  #sectionTwo .h5-secTwo{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.01em; 
+    color: #000000;
+  }
+  
+  #sectionTwo .comprehensive{
+    background-color: #FFFF;
+    width: 256px;
+    height: 250px;
+    border-radius: 20px;
+  }
+  
+  #sectionTwo .comprehensive:hover{
+    background-color: #f7CC74;
+  }
+  
+  #sectionTwo .uptodate{
+    background-color: #FFFF;
+    width: 256px;
+    height: 250px;
+    border-radius: 20px;
+  }
+  
+  #sectionTwo .uptodate:hover{
+    background-color: #f7CC74;
+  }
+  
+  #sectionTwo .trusted{
+    background-color: #FFFF;
+    width: 256px;
+    height: 250px;
+    border-radius: 20px;
+  }
+  
+  #sectionTwo .trusted:hover{
+    background-color: #f7CC74;
+  }
+  
+  #sectionTwo .hq{
+    background-color: #FFFF;
+    width: 256px;
+    height: 250px;
+    border-radius: 20px;
+  }
+  
+  #sectionTwo .hq:hover{
+    background-color: #f7CC74;
+  }
+  
+  #sectionTwo .img-component{
+    height: 200px;
+    width: 204.79998779296875px;
+    border-radius: 20px;
+  }
+  
+  #sectionTwo .icon-secTwo{
+    text-align: center;
+  }
+  
+  #sectionTwo .text-secTwo{
+    text-align: center;
+  }

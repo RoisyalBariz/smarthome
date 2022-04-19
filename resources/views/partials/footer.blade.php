@@ -10,7 +10,7 @@
                     <h3>Telp: 0812-1212-4536</h3>
                     <br>
                     <h3>Head Office</h3>
-                    <h3>Jl. Raya Bandung Sumedang KM.21, Hegarmanah, Jatinangor, Kabupaten Sumedang, Jawa Barat 45363</h3>
+                    <h3>Jl. Raya Bandung Sumedang KM 21, Hegarmanah, Jatinangor, Kabupaten Sumedang, Jawa Barat 45363</h3>
                 </div>
             </div>
             <div class="col align-self-center">

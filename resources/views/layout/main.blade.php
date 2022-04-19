@@ -17,6 +17,7 @@
   <link rel="stylesheet" href="{{asset('source/css/footer.css')}}">
   <link rel="stylesheet" href="{{asset('source/css/landing.css')}}">
   <link rel="stylesheet" href="{{asset('source/css/joinus.css')}}">
+  <link rel="stylesheet" href="{{asset('source/css/profile.css')}}">
 
   <title>Smarthome</title>
 </head>
