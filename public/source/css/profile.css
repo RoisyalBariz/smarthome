@@ -19,3 +19,11 @@
     text-align: center;
     color: #CCCCCC;
 }
+
+.profile p {
+    font-weight: normal;
+    font-family: 'roboto';
+    font-size: 20px;
+    font-weight: bold;
+    color: #0F6DA0;
+}

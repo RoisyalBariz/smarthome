@@ -2,6 +2,53 @@
 @section('container')
 <div class="profile">
     <h1>Company Profile</h1>
-    <p>Profile research of the Unpad Big Data Artificial Intelligence Research Center and PT Sapta Tunggal</p>
+    <p>
+        Profile research of the Unpad Big Data Artificial Intelligence Research
+        Center and PT Sapta Tunggal
+    </p>
+    <div
+        class="container profile Perikanan AIDA"
+        style="margin-top: 120px; margin-bottom: 116px"
+    >
+        <div class="row">
+            <div class="col perikanan" style="text-align: center">
+                <img
+                    style="width: 156px; margin-left: 300px; float: none"
+                    src="/source/img/sapta.jpeg"
+                    alt=""
+                />
+            </div>
+            <div class="col AIDA" style="text-align: center">
+                <img
+                    style="
+                        width: 256px;
+                        margin-right: 300px;
+                        padding-left: 15px;
+                        float: none;
+                        padding-top: 30px;
+                    "
+                    src="/source/img/aida.png"
+                    alt=""
+                />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col saptatunggal" style="text-align: center">
+                <a style="text-decoration: none" href="source/pdf/profileSapta">
+                    <p style="float: right; margin-right: 100px">
+                        VIEW PROFILE
+                    </p>
+                </a>
+            </div>
+            <div class="col AIDA" style="text-align: center">
+                <a
+                    style="text-decoration: none"
+                    href="source/pdf/profileAIDA.pdf"
+                >
+                    <p style="float: left; margin-left: 110px">VIEW PROFILE</p>
+                </a>
+            </div>
+        </div>
+    </div>
 </div>
 @endsection
