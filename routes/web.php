@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\JoinController;
+use App\Http\Controllers\ServiceController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,13 +19,13 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/service', function () {
-    return view('service');
-});
 
-Route::get('/joinus', function () {
-    return view('joinus');
-});
+Route::get('/service', [ServiceController::class, 'index']);
+Route::post('/service', [ServiceController::class, 'store']);
+
+
+Route::get('/joinus', [JoinController::class, 'index']);
+Route::post('/joinus', [JoinController::class, 'store']);
 
 Route::get('/aboutus', function () {
     return view('aboutus');

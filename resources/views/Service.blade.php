@@ -1,12 +1,13 @@
 @extends('layout.main') {{-- ini memanggil file main yang di dalam layout --}}
 @section('container')
 
-<div class="container">
-    <form action="">
-        <label for="img">Select image:</label>
-        <input type="file" id="img" name="img" accept="image/*">
-        <input type="submit">
-    </form>
+<div class="card-body">
+    <form>
+        <div class="form-group">
+          <label for="exampleFormControlFile1">Example file input</label>
+          <input type="file" class="form-control-file" id="exampleFormControlFile1">
+        </div>
+      </form>
 </div>
 
 @endsection

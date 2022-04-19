@@ -6,7 +6,7 @@
     <p>Form of cooperation in research of the Unpad Big Data Artificial Intelligence Research Center</p>
 </div>
 <div class="container" style="margin-bottom: 15px;">
-    <form action="/FormKerjasama" method="POST">
+    <form action="/joinus" method="POST">
         @csrf
         <div class="row justify-content-md-center">
             <div class="col-md-auto">
