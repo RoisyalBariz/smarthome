@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\JoinController;
 use App\Http\Controllers\ServiceController;
+use App\Http\Controllers\PostController;
 
 /*
 |--------------------------------------------------------------------------
@@ -34,3 +35,6 @@ Route::get('/aboutus', function () {
 Route::get('/profile', function () {
     return view('profile');
 });
+
+Route::get('/MainNews', [PostController::class, 'index']);
+Route::get('/singleNews/{id}', [PostController::class, 'show']);

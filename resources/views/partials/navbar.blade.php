@@ -22,6 +22,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/profile">PROFILE</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/MainNews">NEWS</a>
+                </li>
             </ul>
         </div>
     </div>
