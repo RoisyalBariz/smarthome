@@ -1,0 +1,29 @@
+.service h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: 10px;
+    align-items: center;
+    text-align: center;
+    color: #705cef;
+}
+
+.service p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    color: #CCCCCC;
+}
+
+.service p {
+    font-weight: normal;
+    font-family: 'roboto';
+    font-size: 20px;
+    font-weight: bold;
+    color: #0F6DA0;
+}

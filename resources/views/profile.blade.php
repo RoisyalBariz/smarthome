@@ -3,7 +3,7 @@
 <div class="profile">
     <h1>Company Profile</h1>
     <p>
-        Profile research of the Unpad Big Data Artificial Intelligence Research
+        Profile research of the Unpad Artificial Intelligence Big Data Research
         Center and PT Sapta Tunggal
     </p>
     <div
@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col perikanan" style="text-align: center">
                 <img
-                    style="width: 156px; margin-left: 300px; float: none"
+                    style="width: 220px; margin-left: 300px; float: none"
                     src="/source/img/sapta.jpeg"
                     alt=""
                 />
@@ -21,11 +21,11 @@
             <div class="col AIDA" style="text-align: center">
                 <img
                     style="
-                        width: 256px;
+                        width: 340px;
                         margin-right: 300px;
                         padding-left: 15px;
                         float: none;
-                        padding-top: 30px;
+                        padding-top: 100px;
                     "
                     src="/source/img/aida.png"
                     alt=""
@@ -43,7 +43,7 @@
             <div class="col AIDA" style="text-align: center">
                 <a
                     style="text-decoration: none"
-                    href="source/pdf/profileAIDA.pdf"
+                    href="https://aida.unpad.ac.id/"
                 >
                     <p style="float: left; margin-left: 110px">VIEW PROFILE</p>
                 </a>
