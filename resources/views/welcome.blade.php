@@ -26,8 +26,8 @@
 <div id="sectionTwo">
       <div class="caption-sectwo">
         <h2 class="h2-secTwo">We offer the best service</h2>
-        <h3 class="h3-secTwo">Only serve you with the best recommendations.</h3>
-        <h3 class="h3-secTwo" style="padding-bottom: 33px;">We guarantee the safety of your home</h3>
+        <h3 class="h3-secTwo" style="color: black;">Only serve you with the best recommendations.</h3>
+        <h3 class="h3-secTwo" style="padding-bottom: 33px; color: black;">We guarantee the safety of your home</h3>
       </div>
       <div class="icon-secTwo row">
         <div class="col-sm-3">
@@ -45,19 +45,19 @@
       </div>
       <div class="text-secTwo row">
         <div class="col-sm-3">
-          <h4 class="h4-secTwo" style="padding-top: 10px; padding-bottom: 18px;">Comprehensive</h4>
+          <h4 class="h4-secTwo" style="padding-top: 10px; padding-bottom: 18px; color: #705cef;">Comprehensive</h4>
           <h5 class="h5-secTwo" style="padding-bottom: 104px;">We provide machine learning features to check cctv capture photos</h5>
         </div>
         <div class="col-sm-3">
-          <h4 class="h4-secTwo" style="padding-top: 10px; padding-bottom: 18px;">Up to date</h4>
+          <h4 class="h4-secTwo" style="padding-top: 10px; padding-bottom: 18px; color: #705cef;">Up to date</h4>
           <h5 class="h5-secTwo" style="padding-bottom: 104px;">We are always ready to help in every condition</p>
         </div>
         <div class="col-sm-3">
-          <h4 class="h4-secTwo" style="padding-top: 10px; padding-bottom: 18px;">Trusted</h4>
+          <h4 class="h4-secTwo" style="padding-top: 10px; padding-bottom: 18px; color: #705cef;">Trusted</h4>
           <h5 class="h5-secTwo" style="padding-bottom: 104px;">Don't worry, your house is safe to be handled by us.</h5>
         </div>
         <div class="col-sm-3">
-          <h4 class="h4-secTwo" style="padding-top: 10px; padding-bottom: 18px;">100% Accurate</h4>
+          <h4 class="h4-secTwo" style="padding-top: 10px; padding-bottom: 18px; color: #705cef;">100% Accurate</h4>
           <h5 class="h5-secTwo" style="padding-bottom: 104px;">we provide accurate machine learning results</h5>
         </div>
       </div>

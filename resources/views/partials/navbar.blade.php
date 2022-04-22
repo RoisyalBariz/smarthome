@@ -1,7 +1,17 @@
 <nav class="navbar navbar-expand-lg border border-bottom-primary border-3">
     <div class="container">
-        <a class="navbar-brand" href="/"><img class="logo" src="/source/img/logo.png"></a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <a class="navbar-brand" href="/"
+            ><img class="logo" src="/source/img/logo.png"
+        /></a>
+        <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+        >
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
@@ -28,6 +38,5 @@
             </ul>
         </div>
     </div>
-    <div class="hr1">
-    </div>
+    <div class="hr1"></div>
 </nav>

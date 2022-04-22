@@ -5,8 +5,9 @@
                 <div class="about"></div>
                 <br />
                 <div class="about">
-                    <h3>Contact Us</h3>
-                    <h3>Telp: 0812-1212-4536</h3>
+                    <h3/2>Contact Us</h3>
+                    <h3>(022) 84288828</h3>
+                    <h3>pusris.phc@unpad.ac.id</h3>
                     <br />
                     <h3>Head Office</h3>
                     <h3>
